@@ -17,6 +17,8 @@ http://www.gnu.org/licenses/gpl.html
 Updates
 -------
 
+23/2/2015 - Added y-offset argument to better position the background image 
+
 12/6/2012 - Fixed a few demo bugs and made easier to use
     - Fixed a bug that prevented the third section from working
     - Removed the need to use the adjuster value
